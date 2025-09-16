@@ -1,8 +1,7 @@
 {
   "canais": [
     { "nome": "Canal 1 - Notícias", "tipo": "youtube", "channelId": "UCXXXXXXX" },
-    { "nome": "Canal 2 - Filmes", "tipo": "youtube", "channelId": "UCYYYYYYY" },
-    { "nome": "Canal 3 - Música", "tipo": "youtube", "channelId": "UCZZZZZZZ" },
-    { "nome": "Sobre", "tipo": "pagina", "conteudo": "<h2>Sobre a TV</h2><p>Esta TV online foi criada para fins educacionais e entretenimento.</p>" }
+    { "nome": "Canal 2 - Música", "tipo": "youtube", "channelId": "UCYYYYYYY" },
+    { "nome": "Sobre", "tipo": "pagina", "conteudo": "<h2>Sobre a TV</h2><p>Projeto PxLabs.</p>" }
   ]
 }
