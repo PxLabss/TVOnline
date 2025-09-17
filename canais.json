@@ -1,7 +1,10 @@
 {
   "canais": [
-    { "nome": "Canal 1 - Notícias", "tipo": "youtube", "channelId": "HGc8AeiayKQ" },
+    { "nome": "Canal 1 - Notícias", "tipo": "youtube", "channelId": "@gabirebornmatos" },
     { "nome": "Canal 2 - Música", "tipo": "youtube", "channelId": "UCYYYYYYY" },
-    { "nome": "Sobre", "tipo": "pagina", "conteudo": "<h2>Sobre a TV</h2><p>Projeto PxLabs.</p>" }
+    { "nome": "Canal 3 - Esportes", "tipo": "youtube", "channelId": "UCZZZZZZZ" },
+    { "nome": "Canal 4 - Filmes", "tipo": "youtube", "channelId": "UCXXXXXXX" },
+    { "nome": "Canal 5 - Infantil", "tipo": "youtube", "channelId": "UCWWWWWWW" },
+    { "nome": "Sobre", "tipo": "pagina", "conteudo": "<h2>Sobre a TV</h2><p>Projeto PxLabs - Criado em 2025.</p>" }
   ]
 }
